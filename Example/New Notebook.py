@@ -1,2 +1,2 @@
 # Databricks notebook source
-print('Created a new notebook in a Repo')
+print('Created a test notebook in a Repo')
